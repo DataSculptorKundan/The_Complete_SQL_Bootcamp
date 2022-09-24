@@ -152,3 +152,9 @@ SELECT * FROM customer
 WHERE first_name LIKE 'A%' and last_name NOT LIKE 'B%'
 ORDER BY last_name;
 
+
+
+---------IMPORTANT ------
+SELECT DISTINCT * FROM payment
+WHERE MOD(payment_id,2)=0
+OFFSET 1 ROWS FETCH NEXT 1 ROWS ONLY;
