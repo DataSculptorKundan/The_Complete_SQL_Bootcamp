@@ -15,3 +15,13 @@ https://theanalyticsgeek.com/category/sql-interview-questions/
 https://docs.google.com/document/d/1wiuYbTQslmfolQWgeVPB356csjK6yqOUBhgC7fM44o8/edit?usp=sharing
 
 https://docs.google.com/document/d/1swGZ0RG3KKqWqzmsI_qrMgjJ3lt39mtAJqRSMZy6Z-8/edit?usp=sharing
+
+https://stackoverflow.com/questions/21018256/can-i-automatically-create-a-table-in-postgresql-from-a-csv-file-with-headers
+
+https://www.enterprisedb.com/postgres-tutorials/how-import-and-export-data-using-csv-files-postgresql
+
+https://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgresql-table
+
+https://wiki.postgresql.org/wiki/Psycopg2_Tutorial
+
+https://docs.google.com/document/d/1TfB48iJcCAPaQYiOgB70_QgBXyGaU33nYyUZ6lgtLl8/edit
